@@ -1,7 +1,7 @@
 # 🎬 Netflix Movies and TV Shows Data Analysis using SQL
 
 An elegant data analysis project that explores Netflix's content library containing **8,807 records** using **PostgreSQL** (running on Docker) and **Python (Pandas/SQLAlchemy)**. The project solves **15 real-world business problems** to uncover insights regarding content distribution, geographic preferences, timeline trends, and key stakeholders (directors/actors).## Dataset
-              ![Netflix Logo](netflix-logo-png_seeklogo-256429.png)
+![Netflix Logo](netflix-logo-png_seeklogo-256429.png)
 The data for this project is sourced from the Kaggle dataset:
 
 - **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
