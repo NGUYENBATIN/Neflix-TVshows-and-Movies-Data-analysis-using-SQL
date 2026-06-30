@@ -51,7 +51,6 @@ ORDER BY total_content DESC
 LIMIT 5;
 
 -- 5. Identify the longest movie
--- 5. Identify the longest movie
 SELECT title, duration, 
        SPLIT_PART(duration, ' ', 1)::INT as duration_minutes
 FROM netflix
